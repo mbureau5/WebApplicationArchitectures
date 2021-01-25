@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    font-family: Helvetica
+  }
+  
+em, strong {
+    background-color: hsl(61, 100%, 63%);
+    display: inline;             /* This is the default for em and strong */
+  }
+
+li {
+    padding: 1px;
+    font-weight: normal
+}
+
+h3{
+    text-align: left;
+    background-color: #fff0f5;    /* Light gray */
+    padding: 50px;
+    border: 5px solid #ec73af;
+    margin: 50px;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+  
