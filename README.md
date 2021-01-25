@@ -1,4 +1,3 @@
 # WebApplicationArchitectures
 
-Here is the project of my first website which has two html pages : index (main page) and faq.
-In this website I speak about NFL Conference Finals of 2020 
+Here are the work I did on my course about web development (html, CSS, JS)
